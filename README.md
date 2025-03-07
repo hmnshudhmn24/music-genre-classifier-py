@@ -49,6 +49,3 @@ When prompted, enter the path of the song to classify.
 ## Notes
 - Ensure all audio files are in a format readable by Librosa (`.wav` recommended).
 - The accuracy of predictions depends on the quality and diversity of the dataset.
-
-## License
-This project is open-source and free to use for learning and research purposes.
